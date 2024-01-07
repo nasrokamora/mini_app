@@ -63,7 +63,7 @@ export default function Play() {
         <h1><MdConnectWithoutContact size={30} /></h1>
 
         <Link href={'https://www.linkedin.com/in/nasdev/'}><CiLinkedin size={30} /></Link>
-        <Link href={'https://github.com/nasdev'}><SlSocialGithub size={30} /></Link>
+        <Link href={'https://github.com/nas@dev'}><SlSocialGithub size={30} /></Link>
       </div>
       </div>
 </div>
