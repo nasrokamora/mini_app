@@ -34,7 +34,7 @@ export default function Home() {
                     <Link title="linkedin/nasdev" href={'https://www.linkedin.com/in/nasdev/'}>
                         <FaLinkedinIn size={20} />
                     </Link>
-                    <Link title="github/nas@dev" href={'https://github.com/nas@dev'}>
+                    <Link title="github/nasrokamora" href={'https://github.com/nasrokamora'}>
                         <FaGithub size={20} />
                     </Link>
                     <Link title="Email/nasreddine_ab" href={'https://outlook.fr/nasreddine_Ab'}>
